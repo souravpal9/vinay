@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/css" href="cssEmp.css"?>
+<!DOCTYPE emp_detail SYSTEM "emp.dtd">
+<emp_detail>
+<employee>
+    <firstname>sourav</firstname>
+    <lastname>pal</lastname>
+    <email>sourav@gmail.com</email>
+</employee>
+<employee>
+    <firstname>vinay</firstname>
+    <lastname>kumar</lastname>
+    <email>vinaykumar@gmail.com</email>
+</employee>
+<employee>
+    <firstname>yash</firstname>
+    <lastname>bhardwaj</lastname>
+    <email>yashbhardwaj@gmail.com</email>
+</employee>
+<employee>
+    <firstname>Ankur</firstname>
+    <lastname>singh</lastname>
+    <email>ankursingh@gmail.com</email>
+</employee>
+</emp_detail>

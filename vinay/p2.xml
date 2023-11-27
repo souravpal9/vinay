@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/css" href="sub.css"?>
+<CS_5th_Sem>
+<title>Welcome to CE 5th Sem</title>
+<CS_5th_Subject>
+    <name>Web Development</name>
+    <topic1>Hyper Text Markup Language</topic1>
+    <topic2>Cascading Style Sheets</topic2>
+    <topic3>Java Script</topic3>
+    <topic4>Extensible Markup Language</topic4>
+    <topic5>Personal Home Page</topic5> 
+</CS_5th_Subject>
+<CS_5th_Subject>
+    <name>Python Programming</name>
+    <topic1>Operators</topic1>
+    <topic2>Datatype</topic2>
+    <topic3>Oops</topic3>
+    <topic4>Packages</topic4>
+    <topic5>Functions</topic5>    
+</CS_5th_Subject>
+<CS_5th_Subject>
+    <name>Cryptography And Network Security</name>
+    <topic1>Symmetric Cipher Techniques</topic1>
+    <topic2>Data Encryption Standards</topic2>
+    <topic3>Asymmetric Cipher Techniques</topic3>
+    <topic4>Hash Function</topic4>
+    <topic5>Network Security</topic5> 
+</CS_5th_Subject>
+<CS_5th_Subject>
+    <name>Computer Hardware And Maintenance</name>
+    <topic1>Fundamental</topic1>
+    <topic2>Motherboard</topic2>
+    <topic3>Supporting Card</topic3>
+    <topic4>Storage Unit</topic4>
+    <topic5>Peripheral Devices</topic5> 
+</CS_5th_Subject>
+</CS_5th_Sem>

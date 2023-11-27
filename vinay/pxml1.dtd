@@ -1,0 +1,7 @@
+<!DOCTYPE CS_5th_Sem[
+<!ELEMENT emp_detail(employee+)>
+<!ELEMENT employee(firstname,lastname,email)>
+<!ELEMENT firstname(#PCDATA)>
+<!ELEMENT lastname(#PCDATA)>
+<!ELEMENT email(#PCDATA)>
+]>

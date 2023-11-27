@@ -1,0 +1,17 @@
+emp_detail {
+    display: flex;
+}
+
+employee {
+    border: 1px solid;
+    padding: 10px;
+}
+
+firstname,
+lastname {
+    font-size: 18px;
+    color: rgb(226, 131, 43);
+}
+email {
+    margin-top: 6px
+}
